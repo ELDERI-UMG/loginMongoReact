@@ -1,0 +1,5 @@
+{
+  "name": "React & MongoDB Auth UI",
+  "description": "A sleek and modern user interface for a login and registration system, designed to connect to a Node.js and MongoDB backend. This application provides a complete frontend experience with mock authentication for demonstration and development.",
+  "requestFramePermissions": []
+}
